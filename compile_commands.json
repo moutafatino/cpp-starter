@@ -1,8 +1,8 @@
 [
-{
-  "directory": "/home/moutafatin/Programming/cpp-starter/build",
-  "command": "/usr/bin/c++  -I/home/moutafatin/Programming/cpp-starter/include -std=gnu++23 -pedantic-errors -Wall -Wextra -Wconversion -Wsign-conversion -Werror -o CMakeFiles/prog.dir/src/main.cpp.o -c /home/moutafatin/Programming/cpp-starter/src/main.cpp",
-  "file": "/home/moutafatin/Programming/cpp-starter/src/main.cpp",
-  "output": "CMakeFiles/prog.dir/src/main.cpp.o"
-}
+  {
+    "directory": "/home/moutafatin/Programming/cpp-starter",
+    "command": "/usr/bin/c++  -I/home/moutafatin/Programming/cpp-starter/include -std=gnu++23 -pedantic-errors -Wall -Wextra -Wconversion -Wsign-conversion -Werror -o CMakeFiles/prog.dir/src/main.cpp.o -c /home/moutafatin/Programming/cpp-starter/src/main.cpp",
+    "file": "/home/moutafatin/Programming/cpp-starter/src/main.cpp",
+    "output": "CMakeFiles/prog.dir/src/main.cpp.o"
+  }
 ]

@@ -23,7 +23,11 @@ Checks: >
   -google-readability-braces-around-statements,
   -google-readability-todo,
   -modernize-use-trailing-return-type,
-  -readability-braces-around-statements
+  -readability-braces-around-statements,
+  -readability-magic-numbers,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -misc-use-internal-linkage,
+  -readability-identifier-length
 
 WarningsAsErrors: >
   clang-diagnostic-*,
